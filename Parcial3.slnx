@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Ejercicio1_Figuras/Ejercicio1_Figuras.csproj" />
+  <Project Path="Ejercicio2_Json/Ejercicio2_Json.csproj" />
+  <Project Path="Ejercicio3_LoginBCrypt/Ejercicio3_LoginBCrypt.csproj" />
+</Solution>
